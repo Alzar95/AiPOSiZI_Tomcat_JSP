@@ -1,0 +1,19 @@
+html {
+    background: blueviolet;
+}
+
+button {
+    background: greenyellow;
+    margin-top: 5px;
+}
+
+a {
+    color: maroon;
+}
+
+strong {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    font-size: 300%;
+}
